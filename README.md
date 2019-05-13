@@ -1,2 +1,10 @@
 # bootstrap-project-7
-a newsweek.com clone using bootstrap
+A newsweek.com clone using bootstrap
+
+## Authors
+
+* **Denis Cuenca Brex** - [DenisCuencaBrex](https://github.com/DenisCuencaBrex)
+
+## Live Demos
+
+https://raw.githack.com/DenisCuencaBrex/bootstrap-project-7/master/index.html
